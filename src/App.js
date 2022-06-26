@@ -5,7 +5,7 @@ import { ContextProvider } from './Context';
 const App = () => {
 
   return(
-    
+    //this is app
     <ContextProvider>
        <div className='wrapper'>
       <nav
